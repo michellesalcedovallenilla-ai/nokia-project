@@ -1,0 +1,15 @@
+# Reference / working files — not needed in the repo
+Buttons.png
+ref.png
+ref_small.png
+FIX THE BUTTONS - IMAGE REFERENCE
+Features/
+*.png.bak
+
+# OS files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Captura screenshots
+Captura de pantalla*
